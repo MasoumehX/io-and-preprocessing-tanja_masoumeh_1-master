@@ -1,0 +1,29 @@
+
+
+# lone comment line should be ignored
+
+# comment=should be ignored
+1	Veruntreute	veruntreuen	_	_	_	_	_	_	_
+2	die	die	_	_	_	_	_	_	_
+3	AWO	AWO	_	_	_	_	_	_	_
+4	Spendengeld	Spendengeld	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# another sentence multiword
+1-3	This is a	_	_	_	_	_	_	_	_
+1	This	T	_	_	_	_	_	_	_
+2	is	E	_	_	_	_	_	_	_
+3	a	S	_	_	_	_	_	_	_
+4	Test	T	_	_	_	_	_	_	_
+
+
+# sentence with two blank lines
+1	This	T	_	_	_	_	_	_	_
+2	is	E	_	_	_	_	_	_	_
+3	a	S	_	_	_	_	_	_	_
+3	Test	T	_	_	_	_	_	_	_
+
+# sentence space in form
+1	Another	another	_	_	_	_	_	_	_
+2	Test	test	_	_	_	_	_	_	_
+3	with spaces	T	_	_	_	_	_	_	_
